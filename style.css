@@ -1,0 +1,141 @@
+
+body{
+
+    font-family: 'Poppins', sans-serif;
+}
+.container{
+    margin: 0px 156px ;
+    
+}
+
+.top-section{
+    display :flex;
+}
+.top-section h1{
+    font-size: 60px;
+    border-left: 5px solid #FF5959;
+    margin-top: 150px;
+    padding-left: 13px;
+
+}
+.half-section{
+    width: 50%;
+}
+.half-section img{
+    width: 80%;
+}
+
+.orange-color{
+    color: #FFAD5A;
+
+}
+.button{
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 12px 45px;
+    border-radius: 4px;
+    color: white;
+    
+
+}
+.half-section p{
+    margin: 30px 0px;
+    font-size: 18px;
+    color: #424242;
+    margin-right: 100px;
+}
+.develop-section{
+    margin: 100px 0px;
+    display: flex;
+
+}
+.develop-section h1{
+    font-size: 36px;
+    font-weight: bold;
+    padding-top: 10%;
+}
+.mission-section h1{
+    color: #13103A;
+    font-size: 48px ;
+    font-weight: bold;
+    text-align: center;
+
+}
+.mission-section p{
+    color: #424242;
+   
+
+}
+#card-mission{
+    display: flex;
+    justify-content: space-between;
+}
+#card-mission img{
+    width: 50%;
+
+}
+.card{
+    margin-right: 24px;
+    width: 100%;
+   
+
+}
+
+.fist-card{
+    background-color: #4f9da648;
+    padding: 15px 20px;
+    border-radius: 15px;
+    min-height: 320px;
+}
+.secnd-card{
+    background-color: #ff59593b;
+    padding: 15px 20px;
+    border-radius: 15px;
+    min-height: 320px;
+}
+.thrd-card{
+    background-color: #FFF4D6;
+    padding: 15px 20px;
+    border-radius: 15px;
+    min-height: 320px;
+}
+.bottom-section{
+    display: flex;
+    margin-bottom: 10%;
+}
+h3{
+    color: #13103A;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+
+}
+label{
+    font-size: 20px;
+}
+input{
+    width: 300px;
+    height: 23px;
+    border-radius: 10px;
+}
+textarea{
+    width: 300px;
+
+    border-radius: 10px;
+    margin-bottom: 5%;
+
+}
+footer{
+    background-color: #0B0D17;
+    color: white ;
+    text-align: center;
+    padding: 35px 0px;
+}
+footer span{
+    color: #FF5959 ;
+}
+
+footer p{
+    color: #D9DBE1;
+    font-size: 14px;
+} 
